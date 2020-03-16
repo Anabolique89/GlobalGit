@@ -1,3 +1,4 @@
 .vscode/
 toDO.md
-.dist/
+dist/
+.cache/
