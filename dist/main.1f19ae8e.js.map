@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["document","querySelector","textContent"],"mappings":"AAAA;;AACAA,QAAQ,CAACC,aAAT,CAAuB,IAAvB,EAA6BC,WAA7B,GAA2C,eAA3C","file":"main.1f19ae8e.js","sourceRoot":"..","sourcesContent":["\"use strict\";\r\ndocument.querySelector(\"h1\").textContent = \"What you see \";\r\n"]}
